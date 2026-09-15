@@ -45,5 +45,5 @@ Selected academic and project work showing the progression of my technical exper
 | 2020–2021 | Haskell · HUnit | Program Design & Data Structures — Checkers game |
 | 2021 | JavaScript | System Design team project |
 | 2024 | Python | Algorithms & Data Structures II · Software Testing |
-| 2025 | C++ · Dart · JavaScript · SQL | Parallel Programming · Wellspace |
-| 2026 | Python · NumPy · SciPy | Wireless Audio Communication System |
+| 2025 | Python · C++ · Dart · JavaScript · SQL | Maintenance Programming · Parallel Programming · Wellspace |
+| 2025–2026 | Python · NumPy · SciPy | Wireless Audio Communication System |
