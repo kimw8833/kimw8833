@@ -35,3 +35,15 @@ Contributed to AI-related development for a healthcare web application, includin
 **Data:** Relational Databases · Database Design · Data Engineering · Data Platforms
 
 **AI / ML:** Machine Learning · Hugging Face · Vector Representations
+
+## Selected Technical Timeline
+
+Selected academic and project work showing the progression of my technical experience.
+
+| Period | Technologies | Selected work |
+| --- | --- | --- |
+| 2020–2021 | Haskell · HUnit | Program Design & Data Structures — Checkers game |
+| 2021 | JavaScript | System Design team project |
+| 2024 | Python | Algorithms & Data Structures II · Software Testing |
+| 2025 | C++ · Dart · JavaScript · SQL | Parallel Programming · Wellspace |
+| 2026 | Python · NumPy · SciPy | Wireless Audio Communication System |
