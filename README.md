@@ -1,16 +1,37 @@
-## Hi there 👋
+# Kim Sitthikesorn
 
-<!--
-**kimw8833/kimw8833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Data Engineering & Data Platforms**
 
-Here are some ideas to get you started:
+M.Sc. Eng. in Information Technology from Uppsala University, specializing in Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how systems work, identifying what can be improved, and turning requirements and ideas into practical, reliable technical solutions. My main interests are software engineering, data engineering, data platforms, and the foundations needed for reliable AI.
+
+## Selected Experience
+
+### Wellspace — Project Lead & Developer
+
+University software engineering team project.
+
+Led the project and contributed across database design, backend services, API integration, testing, and frontend–backend integration.
+
+**Technologies:** Flutter / Dart · Node.js / Express · MySQL
+
+### Master's Thesis — Trafikverket, ERTMS
+
+Analysed information flows and technical investigation workflows in a complex railway engineering environment.
+
+Developed a structured approach to information management, traceability, and knowledge reuse, including an Azure DevOps proof of concept that became a foundation for further internal development.
+
+### Bachelor's Thesis — Data2Value
+
+Contributed to AI-related development for a healthcare web application, including model exploration, text chunking, vector-based representations, and integration design.
+
+## Technical Background
+
+**Programming:** Python · SQL · Java · JavaScript · C · C++ · Dart · Haskell · R
+
+**Software Engineering:** Git · Linux · Software Testing · System Design · Algorithms · APIs
+
+**Data:** Relational Databases · Database Design · Data Engineering · Data Platforms
+
+**AI / ML:** Machine Learning · Hugging Face · Vector Representations
