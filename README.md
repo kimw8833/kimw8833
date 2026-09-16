@@ -6,6 +6,18 @@ M.Sc. Eng. in Information Technology from Uppsala University, specializing in So
 
 I enjoy understanding how systems work, identifying what can be improved, and turning requirements and ideas into practical, reliable technical solutions. My main interests are software engineering, data engineering, data platforms, and the foundations needed for reliable AI.
 
+## Current Project
+
+### [Rexlet 🦖](https://github.com/kimw8833/rexlet)
+
+**Everything important. One place.**
+
+Rexlet is a personal data hub for turning fragmented everyday data into reliable, structured, and useful information.
+
+The first module, **Rexlet Money**, focuses on organizing personal financial data through transaction ingestion, normalization, categorization, and data quality.
+
+The project is being built with a strong focus on data engineering and data platform fundamentals, with AI features planned only when they solve a real problem.
+
 ## Selected Experience
 
 ### [Wellspace](https://github.com/kimw8833/wellspace-project) — Project Lead & Developer
