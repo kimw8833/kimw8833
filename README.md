@@ -4,7 +4,13 @@
 
 M.Sc. Eng. in Information Technology from Uppsala University, specializing in Software Engineering.
 
-I enjoy understanding how systems work, identifying what can be improved, and turning requirements and ideas into practical, reliable technical solutions. My main interests are software engineering, data engineering, data platforms, and the foundations needed for reliable AI.
+I enjoy understanding how systems work, identifying what can be improved, and turning real-world needs into practical and reliable technical solutions.
+
+AI is becoming increasingly important, but I believe its value depends heavily on what comes before it: reliable, well-structured, and understandable data. Building that foundation is an important bridge between the real world and meaningful use of AI. Data can be collected, structured, validated, and traced before more intelligent systems are built on top of it.
+
+My main interests are software engineering, data engineering, and data platforms, especially where they help transform messy real-world information into something reliable and useful.
+
+I am particularly motivated by technology that creates tangible value in the real world. I want to build systems that solve meaningful problems while considering the people who use them, the quality of the underlying data, and the ethical implications of the technology we create.
 
 ## Current Project
 
